@@ -1,0 +1,4 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+$finish called at time : 2 s : File "C:/Xilinx/Vivado/2020.2/project_traffic_controller/project_traffic_controller.srcs/sim_1/new/controller_TB.v" Line 58
+WARNING: "C:/Xilinx/Vivado/2020.2/data/verilog/src/unisims/FDCE.v" Line 160: Timing violation in scope /controller_TB/dut/count_reg[0]/TChk160_154 at time 2000000005781 ps $recrem (negedge CLR,posedge C,(0:0:0),(0:0:0),notifier,rst_clk_enable_p,rst_clk_enable_p,CLR_dly,C_dly) 
