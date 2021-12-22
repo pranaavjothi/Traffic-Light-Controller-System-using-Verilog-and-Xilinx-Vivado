@@ -1,0 +1,1 @@
+A Traffic Light Controller system for a 4-way intersection was designed using Verilog and Xilinx Vivado. Synthesis, implementation and simulation were successfully completed. No DRC violations were found. Power analysis was done and found to be 0.098 W with a junction temperature of 25.4 degree Celsius.
